@@ -12,7 +12,7 @@ Stage-1 rover overcoming obstacles: deadly mined marshmellow and a steep ramp
 
 1. [Kafi](https://github.com/bluekafi)
 2. [Bhuvan](https://github.com/Bhuv4nVam5i)
-3. [Reza](https://github.com/tesla0101)
+3. [Reza](https://github.com/rezaaliasgarirenani)
 4. Ivan
 5. Mahsood
  
